@@ -74,4 +74,6 @@ function writePassword() {
 }
 
 
-generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword); {
+    
+}
