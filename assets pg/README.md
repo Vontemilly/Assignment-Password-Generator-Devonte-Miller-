@@ -41,3 +41,5 @@ This project is available under the MIT License.
 
 ## Author
 Devonte Miller
+
+<img src="./images/Screenshot (6).png">
